@@ -3,4 +3,4 @@
 
 Orientação a Objetos e UML: Diagramação de Classes do iPhone
 
-![](/home/luciano/Imagens/iphone.jpg)
+![](/home/luciano/projetos/dio-desafio-uml-iphone/src/iphone/assets/iphone.png)
